@@ -1,2 +1,2 @@
-My first readme
-Hello ALX
+Hello ALX week 2
+
